@@ -193,5 +193,3 @@ export default {
 
 <style src="quill/dist/quill.snow.css">
 </style>
-<style src="./styles/vue2-editor.scss" lang='scss'>
-</style>
