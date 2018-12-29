@@ -73,7 +73,6 @@ export default {
       let editorConfig = {
         debug: false,
         modules: this.setModules(),
-        theme: "snow",
         placeholder: this.placeholder ? this.placeholder : "",
         readOnly: this.disabled ? this.disabled : false
       };
